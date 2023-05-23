@@ -19,10 +19,18 @@
     {
         return $this->B2;
     }
+
+    public function MB1(){
+        echo "Esse é o metodo MB1";
+    }
+
+    public function MB2(){
+        echo "Esse é o metodo MB2";
+    }
 }
 
 $guihe4rt = new Usuario2(50, 1000);
 
-echo "Nome de usuário: " . $guihe4rt->B1;
+$guihe4rt->MB1();
 
 ?>
