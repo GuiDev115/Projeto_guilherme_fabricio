@@ -23,7 +23,7 @@ class Usuario {
     }
 
     public function MA1(){
-        echo "Esse é o metodo MA1";
+        echo "Esse é o metodo MA1 ";
     }
 
     public function MA2(){

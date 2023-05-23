@@ -30,7 +30,7 @@
 }
 
 $guihe4rt = new Usuario2(50, 1000);
-
+    
 $guihe4rt->MB1();
 
 ?>
