@@ -15,7 +15,7 @@
     }
 
     public function MC2() {
-        echo "Nome do método: MC2 hm";
+        echo "Nome do método: MC2";
     }
 }
 
