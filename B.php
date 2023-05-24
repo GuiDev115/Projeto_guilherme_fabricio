@@ -27,6 +27,9 @@
     public function MB2(){
         echo "Esse é o metodo MB2";
     }
+    public function MB3(){
+        echo "Esse é o metodo MB3";
+    }
 }
 
 $guihe4rt = new Usuario2(50, 1000);

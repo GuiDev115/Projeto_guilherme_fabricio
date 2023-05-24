@@ -17,6 +17,10 @@
     public function MC2() {
         echo "Nome do método: MC2";
     }
+
+    public function MC3(){
+        echo "Esse é o metodo MC3";
+    }
 }
 
 ?>
