@@ -27,6 +27,10 @@
     public function MD2(){
         echo "Esse é o metodo MD2";
     }
+
+    public function MD3(){
+        echo "Esse é método MD3";
+    }
 }
 
 $guihe4rt = new Usuario3(50, 1000);
