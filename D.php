@@ -27,9 +27,11 @@
     public function MD2(){
         echo "Esse é o metodo MD2";
     }
-
     public function MD3(){
         echo "Esse é método MD3";
+    }
+    public function MD4(){
+        echo "Esse é metodo MD4 ";
     }
 }
 
