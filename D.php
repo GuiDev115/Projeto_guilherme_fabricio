@@ -27,6 +27,9 @@
     public function MD2(){
         echo "Esse é o metodo MD2";
     }
+    public function MD4(){
+        echo "Esse é metodo MD4";
+    }
 }
 
 $guihe4rt = new Usuario3(50, 1000);
